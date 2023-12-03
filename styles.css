@@ -43,10 +43,12 @@
     font-size: 48px;
     font-weight: bold;
     color: #F9FAF8;
+    width: 60%;
 }
 .header-part-two-left p {
     font-size: 18px;
     color: #E5E7EB;
+    width: 70%;
 }
 .header-part-two-left button {
     height: 35px;
