@@ -25,7 +25,8 @@
 .div-header-logo {
     display: inline-block;
     font-weight: 700;
-    font-size: 150%;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 .header-part-two {
     display: flex;
@@ -42,4 +43,8 @@
     font-size: 48px;
     font-weight: bold;
     color: #F9FAF8;
+}
+.header-part-two-left p {
+    font-size: 18px;
+    color: #E5E7EB;
 }
