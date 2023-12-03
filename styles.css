@@ -29,5 +29,17 @@
 }
 .header-part-two {
     display: flex;
-    
+
+}
+.header-part-two-left {
+    display: flex;
+    flex-direction: column;
+}
+.header-part-two-left p{
+    width: 80%;
+}
+.header-part-two-left h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
 }
