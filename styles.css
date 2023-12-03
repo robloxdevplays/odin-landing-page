@@ -12,11 +12,18 @@
 .links-logo-container {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
 }
 .nav-link-container {
     display: flex;
     gap: 30px;
 }
+.nav-link-container a {
+    text-decoration: none;
+}
 .div-header-logo {
     display: inline-block;
+    font-weight: 700;
+    font-size: 150%;
 }
