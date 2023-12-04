@@ -40,6 +40,9 @@ html {
     align-items: center;
     justify-content: space-around
 }
+.header-part-two-right img {
+    object-fit: contain;
+}
 .header-part-two-left {
     display: flex;
     flex-direction: column;
@@ -73,7 +76,17 @@ html {
     color: white;
 }
 .header-part-two-right {
-    margin-left: -290px;
+    margin-left: -250px;
+}
+.section-two {
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+.section-two-sub {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 30px;
 }
 .section-two h1 {
     font-size: 36px;
@@ -87,4 +100,14 @@ html {
     height: 130px;
     width: 130px;
     border-radius: 10px;
+}
+.image-text-container {
+    display: flex;
+    flex-direction: column;
+    
+}
+.image-text-container p {
+    color: #5a5a5a;
+    font-size: 15px;
+    width: 160px;
 }
