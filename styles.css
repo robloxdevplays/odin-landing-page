@@ -116,11 +116,22 @@ html {
 }
 .third-section {
     background-color: #E5E7EB;
-    padding-bottom: 300px;
+    padding-bottom: 200px;
 }
 .quote-section-quote {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
     width: 60%;
+}
+.quote-section-author {
+    font-size: 25px;
+    font-weight: 500;
+    color: #1F2937;
+    align-items: end;
+}
+.third-section-sub {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
