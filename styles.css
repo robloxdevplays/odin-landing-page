@@ -30,11 +30,17 @@
 }
 .header-part-two {
     display: flex;
-
+    align-items: center;
 }
 .header-part-two-left {
     display: flex;
     flex-direction: column;
+    gap: 10px;
+    align-items: start;
+    width: 400px;
+}
+.header-part-two-left p,h1,button {
+    display: inline-block;
 }
 .header-part-two-left p{
     width: 80%;
