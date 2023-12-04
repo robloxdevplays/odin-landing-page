@@ -31,13 +31,14 @@
 .header-part-two {
     display: flex;
     align-items: center;
+    justify-content: space-around
 }
 .header-part-two-left {
     display: flex;
     flex-direction: column;
     gap: 10px;
     align-items: start;
-    width: 400px;
+    width: 550px;
 }
 .header-part-two-left p,h1,button {
     display: inline-block;
