@@ -8,4 +8,7 @@ Minor styling on left part of second section of the header and getting started o
 First debugging sesh to figure out how to get the left hand section of the second part of the to only take as much space as needed. Still trying to figure it out, taking a break. 
 
 ## Coding Sesh (2 hours)
-Made section two completely and halfway done of section three. Need to align it horiozontally and get the author to be at the end of the quote. Worked a lot with containers today. Resolved some git issues (questions). 
+Made section two completely and halfway done of section three. Need to align it horiozontally and get the author to be at the end of the quote. Worked a lot with containers today. Resolved some git issues (questions).
+
+## Coding Sesh (1 hour) | 2023/05/12
+Completed the rest of the quote section and made the 2 remaining sections. Used a mix of margin and flex which I don't think is necassarily bad. But need to improve, all good looks WAY better than my most recent project.
