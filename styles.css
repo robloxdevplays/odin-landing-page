@@ -136,3 +136,22 @@ html {
     flex-direction: column;
     align-items: center;
 }
+.sign-up-text {
+    background-color: #3882F6;
+    height: 100px;
+    width: 900px;
+    border-radius: 10px;
+}
+.sign-up-left h4 {
+    font-size: 22px;
+}
+.sign-up-button button {
+    height: 35px;
+    width: 100px;
+    background-color: #3882F6;
+    border: solid 1px white;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 7px;
+    color: white;
+}
