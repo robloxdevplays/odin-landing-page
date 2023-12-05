@@ -141,6 +141,9 @@ html {
     height: 100px;
     width: 900px;
     border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .sign-up-left h4 {
     font-size: 22px;
