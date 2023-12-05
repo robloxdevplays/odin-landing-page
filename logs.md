@@ -12,3 +12,6 @@ Made section two completely and halfway done of section three. Need to align it 
 
 ## Coding Sesh (1 hour) | 2023/05/12
 Completed the rest of the quote section and made the 2 remaining sections. Used a mix of margin and flex which I don't think is necassarily bad. But need to improve, all good looks WAY better than my most recent project.
+
+## Coding Sesh (1 hour)
+Finished the project I like how it looks most importantly I like the smoothness and workflow I now have I think it's more important than the final results which I do think also looks good.
